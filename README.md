@@ -10,5 +10,5 @@ In this code I have used the concept of Classes and Objects to solve the problem
 
 For each of these features I have created a separate class to maintain the decorum of the code. Also I have use the concept of Switch Cases to automate the task and make it more useful and user friendly. User need to just enter the numbers as per given and it will perform the task<br>
 
-For Compliation : javac Main.java<br>
-To Run Program : java Main<br>
+For Compliation : <code>javac Main.java<code><br>
+To Run Program : <code>java Main<code><br>
